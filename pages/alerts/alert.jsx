@@ -1,4 +1,4 @@
-import styles from '../styles/alert.module.css'
+import styles from '../../styles/alert.module.css'
 import cn from 'classnames'
 
 const Alert = ({ children, type }) => {
