@@ -22,9 +22,9 @@ export default function Home({ allPostsData }) {
 			</Head>
 			<section className={utilStyles.headingMd}>
 				<p>
-					I'm Alan Staub Negro, you can call me <b>Aslan</b>. I'm a Full Stack
+					I am Alan Staub Negro, you can call me <b>Aslan</b>. I am a Full Stack
 					Developer 🖥️, Front End Strong 🖌️, that is currently learning some
-					NextJS framework here! I'm also writing ✒️ a book of phillosophy 📖
+					NextJS framework here! I am also writing ✒️ a book of phillosophy 📖
 					and wellness 🧘‍♂️. You can contact me on{' '}
 					<a href='https://www.linkedin.com/in/alanstaubnegro/'>Linkedin</a>.
 				</p>
